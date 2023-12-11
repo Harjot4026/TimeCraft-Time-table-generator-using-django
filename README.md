@@ -1,1 +1,2 @@
 # TimeCraft-Time-table-generator-using-django
+# It is a website created using django and genetic algorithms of machine learning , which generates time table and allows you to download the generated timetables.
